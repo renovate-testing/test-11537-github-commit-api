@@ -2,7 +2,7 @@ name: branch
 on:
   create
 jobs:
-  on-create:
+  on-branch:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Branch is created"
