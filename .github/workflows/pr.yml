@@ -1,7 +1,7 @@
 on:
   pull_request
 jobs:
-  on-create:
+  on-pr:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Branch is created"
