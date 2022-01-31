@@ -1,8 +1,0 @@
-name: branch
-on:
-  create
-jobs:
-  on-branch:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Branch is created"
