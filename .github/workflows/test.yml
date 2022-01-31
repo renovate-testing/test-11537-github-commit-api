@@ -33,7 +33,6 @@ on:
   - watch
   - workflow_call
   - workflow_dispatch
-  - workflow_run
 
 jobs:
   test:
