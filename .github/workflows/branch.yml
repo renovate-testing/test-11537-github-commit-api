@@ -1,3 +1,4 @@
+name: branch
 on:
   create
 jobs:
