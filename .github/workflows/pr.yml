@@ -1,8 +1,0 @@
-name: pr
-on:
-  pull_request
-jobs:
-  on-pr:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "Branch is created"
