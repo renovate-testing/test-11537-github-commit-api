@@ -1,4 +1,3 @@
 {
-  "platformCommit": true,
-  "automerge": true
+  "enabled": false
 }
